@@ -12,7 +12,7 @@
     Simple automated way for users to convert new content
   </Overview>
   <Support></Support>
-  <Registry></Registry>
+  <Registry>https://registry.hub.docker.com/u/sonicy3k/pacvert/</Registry>
   <GitHub>https://github.com/Sonic-Y3k/pacvert</GitHub>
   <Repository>sonic-y3k/pacvert</Repository>
   <BindTime>true</BindTime>
