@@ -40,7 +40,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-  <WebUI>http://[IP]:[PORT:8181]/</WebUI>
+  <WebUI>http://[IP]:[PORT:8181]/home</WebUI>
   <Banner></Banner>
   <Icon>http://i.imgur.com/4RhSj6J.png</Icon>
   <Beta>False</Beta>
