@@ -46,8 +46,11 @@
   <Beta>False</Beta>
   <Category>Cloud: Downloaders: MediaServer: Video</Category>
   <Changes>
+    [font size=4]2017.01.10[/font]
+    - Minor Bug Fixes
+
     [font size=4]2017.01.01[/font]
     - Initial Release
   </Changes>
-  <Date>2017-01-01</Date>
+  <Date>2017-01-10</Date>
 </Containers>
